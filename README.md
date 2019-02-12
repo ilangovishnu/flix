@@ -20,7 +20,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/gwV1nAJaUK.gif" width=250><br>
+<br> <img src="http://g.recordit.co/gwV1nAJaUK.gif" width=250><br>
 
 
 ## Flix Part 2
@@ -37,5 +37,5 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/1CpBmwu3IF.gif" width=250><br>
+<br> <img src="http://g.recordit.co/1CpBmwu3IF.gif" width=250><br>
 
